@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>JOHNNYU</title>
+  
+  
+  <link href="https://chungenyu6.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://chungenyu6.github.io/"/>
+  <updated>2021-03-15T11:03:26.359Z</updated>
+  <id>https://chungenyu6.github.io/</id>
+  
+  <author>
+    <name>Johnny Yu</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>testAbroad</title>
+    <link href="https://chungenyu6.github.io/2021/03/15/testAbroad/"/>
+    <id>https://chungenyu6.github.io/2021/03/15/testAbroad/</id>
+    <published>2021-03-15T10:46:32.000Z</published>
+    <updated>2021-03-15T11:03:26.359Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Here is test for</summary>
+        
+      
+    
+    
+    
+    <category term="留學資訊" scheme="https://chungenyu6.github.io/categories/%E7%95%99%E5%AD%B8%E8%B3%87%E8%A8%8A/"/>
+    
+    <category term="申請" scheme="https://chungenyu6.github.io/categories/%E7%95%99%E5%AD%B8%E8%B3%87%E8%A8%8A/%E7%94%B3%E8%AB%8B/"/>
+    
+    
+    <category term="申請" scheme="https://chungenyu6.github.io/tags/%E7%94%B3%E8%AB%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>testEnglish</title>
+    <link href="https://chungenyu6.github.io/2021/03/15/testEnglish/"/>
+    <id>https://chungenyu6.github.io/2021/03/15/testEnglish/</id>
+    <published>2021-03-15T07:31:15.000Z</published>
+    <updated>2021-03-15T11:06:12.658Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Here is test for english</summary>
+        
+      
+    
+    
+    
+    <category term="留學資訊" scheme="https://chungenyu6.github.io/categories/%E7%95%99%E5%AD%B8%E8%B3%87%E8%A8%8A/"/>
+    
+    <category term="英文" scheme="https://chungenyu6.github.io/categories/%E7%95%99%E5%AD%B8%E8%B3%87%E8%A8%8A/%E8%8B%B1%E6%96%87/"/>
+    
+    
+    <category term="english" scheme="https://chungenyu6.github.io/tags/english/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>testMilitary</title>
+    <link href="https://chungenyu6.github.io/2021/03/15/testMilitary/"/>
+    <id>https://chungenyu6.github.io/2021/03/15/testMilitary/</id>
+    <published>2021-03-15T06:26:27.000Z</published>
+    <updated>2021-03-15T11:06:47.838Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Here is</summary>
+        
+      
+    
+    
+    
+    <category term="留學資訊" scheme="https://chungenyu6.github.io/categories/%E7%95%99%E5%AD%B8%E8%B3%87%E8%A8%8A/"/>
+    
+    <category term="兵役" scheme="https://chungenyu6.github.io/categories/%E7%95%99%E5%AD%B8%E8%B3%87%E8%A8%8A/%E5%85%B5%E5%BD%B9/"/>
+    
+    
+    <category term="hexo" scheme="https://chungenyu6.github.io/tags/hexo/"/>
+    
+    <category term="testtag" scheme="https://chungenyu6.github.io/tags/testtag/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://chungenyu6.github.io/2021/03/10/hello-world/"/>
+    <id>https://chungenyu6.github.io/2021/03/10/hello-world/</id>
+    <published>2021-03-10T06:58:11.134Z</published>
+    <updated>2021-03-10T06:58:11.134Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
