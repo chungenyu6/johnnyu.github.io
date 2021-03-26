@@ -19,19 +19,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>testEnglish</title>
-    <url>/2021/03/15/testEnglish/</url>
-    <content><![CDATA[<p>Here is test for english index.</p>
-]]></content>
-      <categories>
-        <category>留學資訊</category>
-        <category>英文</category>
-      </categories>
-      <tags>
-        <tag>english</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>testAbroad</title>
     <url>/2021/03/15/testAbroad/</url>
     <content><![CDATA[<p>Here is test for Graduation.</p>
@@ -42,6 +29,19 @@
       </categories>
       <tags>
         <tag>申請</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>testEnglish</title>
+    <url>/2021/03/15/testEnglish/</url>
+    <content><![CDATA[<p>Here is test for english index.</p>
+]]></content>
+      <categories>
+        <category>留學資訊</category>
+        <category>英文</category>
+      </categories>
+      <tags>
+        <tag>english</tag>
       </tags>
   </entry>
   <entry>
